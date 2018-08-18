@@ -1,0 +1,46 @@
+[
+    {
+        "courseName": "Course 1",
+        "courseDuration": 50
+    },
+    {
+        "courseName": "Course 2",
+        "courseDuration": 20
+    },
+    {
+        "courseName": "Course 3",
+        "courseDuration": 30
+    },
+    {
+        "courseName": "Course4",
+        "courseDuration": 25
+    },
+    {
+        "courseName": "Course5",
+        "courseDuration": 56
+    },
+    {
+        "courseName": "Course6",
+        "courseDuration": 56
+    },
+    {
+        "courseName": "Course7",
+        "courseDuration": 56
+    },
+    {
+        "courseName": "Course8",
+        "courseDuration": 56
+    },
+    {
+        "courseName": "Course 10",
+        "courseDuration": 56
+    },
+    {
+        "courseName": "Course 11",
+        "courseDuration": 35
+    },
+    {
+        "courseName": "Courses 12",
+        "courseDuration": 58
+    }
+]
